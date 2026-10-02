@@ -11,7 +11,7 @@ import pandas as pd
 from telebot.types import ReplyKeyboardMarkup, BotCommand
 
 # ====== BOT CREDENTIALS ======
-TOKEN = "8854992431:AAHa7d3M22A4-gzJNiuWPa_PzdZgrSO62NQ"
+TOKEN = "8854992431:AAHa7*d3M22A4-gzJNiuWPa_PzdZgrSO62NQ"
 ADMIN_IDS = ["8729201074"]
 
 # ====== 3RD PARTY API SETTINGS ======
